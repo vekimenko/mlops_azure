@@ -5,7 +5,7 @@ To deploy the code in Azure DevOps please follow these steps:
 2. Set up Azure DevOps project  
 3. Create Service Connection  
 4. Set up Source repository  
-5. Set up and run prod environement pipeline (/config-infra-prod.yml)   
+5. Set up and run prod environement pipeline (/mlops/devops-pipelines/cli-ado-deploy-infra.yml)   
 6. Set up and run training pipeline (/mlops/devops-pipelines/deploy-model-training-pipeline.yml)  
   
   
